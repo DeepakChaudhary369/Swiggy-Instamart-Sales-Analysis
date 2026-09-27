@@ -78,7 +78,7 @@ Avg_Rating  = AVERAGE('Grocery Shop'[Rating])
 ## 🚀 How to Use
 
 1. Clone this repo
-2. Open `Insta_Mart_Grocery_stores_Dashboard_-_Resume_Project_2.pbix` in Power BI Desktop
+2. Open `Insta_Mart_Grocery_stores_Dashboard_.pbix` in Power BI Desktop
 3. If prompted, update the data source path to point to your local copy of `Instamart_Data.xlsx`
 4. Explore the dashboard using the slicers and metric-switcher buttons
 
