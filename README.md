@@ -2,7 +2,7 @@
 
 An end-to-end **Power BI** analytics dashboard built on grocery store sales data, styled around the Swiggy Instamart brand.
 
-![Dashboard Preview]![Uploading Final Dashboard.jpg…]()
+![Dashboard Preview](./Final%20Dashboard.jpg)
 
 
 ## 📌 Overview
