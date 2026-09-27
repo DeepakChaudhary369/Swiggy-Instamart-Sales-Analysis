@@ -85,7 +85,7 @@ Avg_Rating  = AVERAGE('Grocery Shop'[Rating])
 ## 📂 Repo Structure
 
 ```
-├── Insta_Mart_Grocery_stores_Dashboard_-_Resume_Project_2.pbix
+├── Insta_Mart_Grocery_stores_Dashboard_.pbix
 ├── Instamart_Data.xlsx
 ├── dashboard_screenshot.png
 └── README.md
