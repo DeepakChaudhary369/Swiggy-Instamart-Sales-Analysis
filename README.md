@@ -1,6 +1,6 @@
 # 🛒 Insta Mart Grocery Stores Dashboard
 
-An end-to-end **Power BI** analytics dashboard built on grocery store sales data, styled around the Swiggy Instamart brand. This is Resume Project 2 in my data analytics portfolio.
+An end-to-end **Power BI** analytics dashboard built on grocery store sales data, styled around the Swiggy Instamart brand.
 
 ![Dashboard Preview]![Uploading Final Dashboard.jpg…]()
 
